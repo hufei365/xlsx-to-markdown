@@ -2,7 +2,7 @@
 
 将 XLSX 文件转成 Markdown 表格。
 
-## 按准过
+## 安装
 
 ```bash
 npm install -g xlsx2md
